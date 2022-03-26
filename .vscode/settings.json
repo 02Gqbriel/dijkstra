@@ -1,3 +1,5 @@
 {
-	"java.project.outputPath": "bin"
+	"java.project.outputPath": "bin",
+	"java.codeGeneration.generateComments": true,
+	"java.format.settings.url": "eclipse-formatter.xml"
 }
